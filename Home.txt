@@ -1,0 +1,2 @@
+Bhuvi is the best dude ever.
+Example to check for diff in the staged file.
